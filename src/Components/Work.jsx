@@ -29,12 +29,12 @@ const Work = () => {
                 Modern_Bank_App
               </span>
               <div className="pt-8 text-center ">
-                <a href="/">
+                <a href="https://modernbankproject.netlify.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg ">
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/ashishsaurav24/modern_bank_project">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg ">
                     Code
                   </button>
@@ -42,6 +42,7 @@ const Work = () => {
               </div>
             </div>
           </div>
+          {/* Project 2 */}
           <div
             style={{ backgroundImage: `url(${work3})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
@@ -52,12 +53,12 @@ const Work = () => {
                 Amazon Clone App
               </span>
               <div className="pt-8 text-center ">
-                <a href="/">
+                <a href="https://clone-af20a.web.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg ">
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/ashishsaurav24/amazon-clone">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg ">
                     Code
                   </button>
@@ -65,6 +66,7 @@ const Work = () => {
               </div>
             </div>
           </div>
+          {/* Project 3 */}
           <div
             style={{ backgroundImage: `url(${work2})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
@@ -75,12 +77,12 @@ const Work = () => {
                 News App using API
               </span>
               <div className="pt-8 text-center ">
-                <a href="/">
+                <a href="https://newsapp-75543.web.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg ">
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/ashishsaurav24/newsApp--reactjs">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg ">
                     Code
                   </button>
@@ -88,6 +90,7 @@ const Work = () => {
               </div>
             </div>
           </div>
+          {/* Project 4 */}
           <div
             style={{ backgroundImage: `url(${work4})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
@@ -98,12 +101,12 @@ const Work = () => {
                 Spotify Clone
               </span>
               <div className="pt-8 text-center ">
-                <a href="/">
+                <a href="https://spotifycloneapp1.netlify.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg ">
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/ashishsaurav24/Spotify-Clone">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg ">
                     Code
                   </button>
@@ -111,6 +114,7 @@ const Work = () => {
               </div>
             </div>
           </div>
+          {/* Project 5 */}
           <div
             style={{ backgroundImage: `url(${work5})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
@@ -121,12 +125,12 @@ const Work = () => {
                 Simon Game using JS
               </span>
               <div className="pt-8 text-center ">
-                <a href="/">
+                <a href="https://ashishsaurav24.github.io/Simon-Game--JS/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg ">
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/ashishsaurav24/Simon-Game--JS">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg ">
                     Code
                   </button>
@@ -134,6 +138,7 @@ const Work = () => {
               </div>
             </div>
           </div>
+          {/* Project 6 */}
           <div
             style={{ backgroundImage: `url(${work6})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
@@ -144,12 +149,12 @@ const Work = () => {
                 Snake Game using JS
               </span>
               <div className="pt-8 text-center ">
-                <a href="/">
+                <a href="https://ashishsaurav24.github.io/snakeGame/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg ">
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/ashishsaurav24/snakeGame">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg ">
                     Code
                   </button>
