@@ -8,13 +8,13 @@ import work6 from "../assets/work6.png";
 
 const Work = () => {
   return (
-    <div name="work" className="w-full md:h-full text-gray-300 bg-[#0a192f]">
+    <div name="work" className="w-full md:h-full text-gray-300 bg-[#0a192f] pt-[68px]">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-pink-600">
             Work
           </p>
-          <p className="py-6">"//Check out some of my recent works"</p>
+          <p className="py-6">{"//Check out some of my recent works"}</p>
         </div>
 
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
@@ -26,7 +26,7 @@ const Work = () => {
             {/* Hover Effect */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                Modern_Bank_App
+                HooBank Landing Page
               </span>
               <div className="pt-8 text-center ">
                 <a href="https://modernbankproject.netlify.app/">
@@ -50,7 +50,7 @@ const Work = () => {
             {/* Hover Effect */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                Amazon Clone App
+                Amazon Clone
               </span>
               <div className="pt-8 text-center ">
                 <a href="https://clone-af20a.web.app/">
@@ -74,7 +74,7 @@ const Work = () => {
             {/* Hover Effect */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                News App using API
+                NewsMonkey
               </span>
               <div className="pt-8 text-center ">
                 <a href="https://newsapp-75543.web.app/">
